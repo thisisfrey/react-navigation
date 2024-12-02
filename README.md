@@ -4,7 +4,7 @@ The Navigation Component is a flexible and easy-to-use navigation system designe
 
 ## Demo
 
-To access the live demo of this project, please visit [https://thisisfrey.github.io/react-navigation-component/](https://thisisfrey.github.io/react-navigation-component/). Here, you will find the deployed version of the web application or website, ready to be explored and tested.
+To access the live demo of this project, please visit [https://thisisalicee.github.io/react-navigation-component/](https://thisisalicee.github.io/react-navigation-component/). Here, you will find the deployed version of the web application or website, ready to be explored and tested.
 
 Feel free to interact with the demo by navigating through its various pages, submitting forms, or interacting with interactive components. This provides an immersive experience that demonstrates the functionality and features of the project.
 
